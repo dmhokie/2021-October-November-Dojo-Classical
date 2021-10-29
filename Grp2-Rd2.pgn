@@ -206,7 +206,7 @@
 [Round "2"]
 [White "rafaelnajera"]
 [Black "Halgilde"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "RafaelNajera#7575"]
 [BlackId "Halgilde#5362"]
@@ -214,7 +214,7 @@
 [BlackElo "1351"]
 
 {[%SevillaID "1431"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -270,7 +270,7 @@
 [Round "2"]
 [White "Zer0sum71"]
 [Black "monGrelTiger"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Zer0sum71#3672"]
 [BlackId "monGrelTiger"]
@@ -278,6 +278,6 @@
 [BlackElo "1062"]
 
 {[%SevillaID "1443"]}
-*
+0-1
 
 

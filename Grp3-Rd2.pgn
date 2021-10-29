@@ -65,14 +65,14 @@
 [Round "2"]
 [White "jay 1944"]
 [Black "Mn1chu"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [BlackId "Mn1chu#4057"]
 [WhiteElo "1505"]
 [BlackElo "1452"]
 
 {[%SevillaID "1408"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -126,7 +126,7 @@
 [Round "2"]
 [White "NebeyuTedla"]
 [Black "Chess Maestro2021"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "M1StY#8687"]
 [BlackId "ChessMaestro#9640"]
@@ -134,7 +134,7 @@
 [BlackElo "1418"]
 
 {[%SevillaID "1409"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -142,7 +142,7 @@
 [Round "2"]
 [White "Pauli3141"]
 [Black "jcd0"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Pauli#4131"]
 [BlackId "jcd0#7679"]
@@ -150,7 +150,7 @@
 [BlackElo "1472"]
 
 {[%SevillaID "1406"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -204,7 +204,7 @@
 [Round "2"]
 [White "thekangaroorat"]
 [Black "MerlotKodiak"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "mtgzach#5836"]
 [BlackId "MegaPops#2443"]
@@ -212,7 +212,7 @@
 [BlackElo "1708"]
 
 {[%SevillaID "1397"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
