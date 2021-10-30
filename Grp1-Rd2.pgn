@@ -43,7 +43,7 @@ Kg2 Qh3+ 0-1
 [Round "2"]
 [White "barron411"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "barron?!?!#6962"]
 [BlackId "ElliotP#2014"]
@@ -51,7 +51,19 @@ Kg2 Qh3+ 0-1
 [BlackElo "1666"]
 
 {[%SevillaID "1447"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.10.29"] [Round "?"] [White
+"barron411"] [Black "1Elliot"] [Result "1/2-1/2"] [ECO "C78"] [WhiteElo "1822"]
+[BlackElo "1704"] [TimeControl "2700+30"] [EndTime "20:40:12 PDT"] [Termination
+"Game drawn by agreement"]  1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5
+6. Bb3 Bc5 7. c3 d6 8. d4 Bb6 9. Bg5 h6 10. Bh4 Bb7 11. dxe5 Nxe5 12. Nbd2 g5
+13. Nxe5 dxe5 14. Bg3 O-O 15. Bxe5 Re8 16. Bxf6 Qxf6 17. Qf3 Qxf3 18. gxf3 Rad8
+19. Rfd1 Kg7 20. Nf1 f5 21. Rxd8 Rxd8 22. Bc2 fxe4 23. fxe4 Rf8 24. Ne3 Re8 25.
+Nf5+ Kf6 26. Re1 h5 27. Kf1 Rd8 28. e5+ Kf7 29. Bb3+ Kg6 30. Ne7+ Kg7 31. Nf5+
+Kg6 32. Bc2 Kf7 33. Ng3 Bf3 34. Be4 Bg4 35. f3 Bh3+ 36. Ke2 h4 37. Nf5 Ke6 38.
+Nh6 Rh8 39. Ng4 Bxg4 40. fxg4 Kxe5 41. Bb7 a5 42. Ba6 b4 43. cxb4 axb4 44. Rf1
+Rg8 45. Rf5+ Kd4 46. Rb5 Re8+ 47. Kd2 Ra8 48. Rxb4+ Kc5 49. Ra4 Rd8+ 50. Bd3 Rd4
+51. Rxd4 Kxd4 52. h3 Ba5+ 53. Ke2 c5 54. Bc2 1/2-1/2 
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -186,7 +198,7 @@ Kh8 26. Bxe4 dxe4 27. Bd6 1-0
 [Round "2"]
 [White "yaR 33"]
 [Black "Capa a"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "yaR_33#0033"]
 [BlackId "ChessDad#0536"]
@@ -194,6 +206,19 @@ Kh8 26. Bxe4 dxe4 27. Bd6 1-0
 [BlackElo "1590"]
 
 {[%SevillaID "1449"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.10.30"] [Round "?"] [White
+"yaR_33"] [Black "Capa_a"] [Result "1-0"] [ECO "C43"] [WhiteElo "1705"]
+[BlackElo "1592"] [TimeControl "5400+30"] [EndTime "12:40:10 PDT"] [Termination
+"yaR_33 won by checkmate"]  1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7
+6. Nxd7 Bxd7 7. O-O Be7 8. c4 Nf6 9. c5 O-O 10. Nc3 Bg4 11. Qc2 Qd7 12. Bg5 h6
+13. Bh4 Rfe8 14. f3 Be6 15. Rfe1 Nh5 16. Bxe7 Rxe7 17. a4 Nf4 18. Bf1 Rae8 19.
+Qd2 Ng6 20. b4 Bf5 21. Rxe7 Rxe7 22. b5 c6 23. a5 cxb5 24. Nxb5 a6 25. Nd6 Qd8
+26. Nxf5 Re6 27. Rb1 Qc7 28. Nd6 Ne7 29. Rxb7 Qc6 30. Rb6 Qc7 31. Bxa6 Nc6 32.
+Rb7 Qd8 33. Nxf7 Qxa5 34. Qxa5 Nxa5 35. Nd6 Nxb7 36. Bxb7 Re1+ 37. Kf2 Rd1 38.
+Bxd5+ Kf8 39. Ke3 Re1+ 40. Kd3 Rd1+ 41. Kc4 Rc1+ 42. Kb4 Ke7 43. Ka5 Kd7 44. Kb6
+Rb1+ 45. Nb5 Rb2 46. f4 Rf2 47. Bf3 Rf1 48. d5 Re1 49. c6+ Kc8 50. d6 Ra1 51.
+Na7+ Rxa7 52. Kxa7 g5 53. Bg4+ Kd8 54. c7+ Ke8 55. c8=Q+ Kf7 56. Qe6+ Kf8 57.
+Qe7+ Kg8 58. d7 h5 59. d8=Q# 1-0 
+1-0
 
 

@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Briefwinters12"]
 [Black "steverstever"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Briefwinters#2645"]
 [BlackId "DRANKLE#9999"]
@@ -28,7 +28,7 @@
 [BlackElo "1522"]
 
 {[%SevillaID "1407"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -173,14 +173,14 @@
 [Round "2"]
 [White "strangeQuark6"]
 [Black "kirk0536"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "strangeQuark6#1821"]
 [WhiteElo "1631"]
 [BlackElo "1587"]
 
 {[%SevillaID "1399"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]

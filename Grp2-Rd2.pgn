@@ -4,7 +4,7 @@
 [Round "2"]
 [White "AfterEightTea"]
 [Black "Sinewave13"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "sinewave#1474"]
@@ -12,7 +12,7 @@
 [BlackElo "1120"]
 
 {[%SevillaID "1432"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -66,14 +66,14 @@
 [Round "2"]
 [White "eejupeko"]
 [Black "hugh9288"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "eejupeko#4178"]
 [WhiteElo "907"]
 [BlackElo "1272"]
 
 {[%SevillaID "1435"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -128,7 +128,7 @@
 [Round "2"]
 [White "jailer165"]
 [Black "alt0violistic"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "jailer165#0369"]
 [BlackId "Kuba_B#5438"]
@@ -136,7 +136,7 @@
 [BlackElo "1289"]
 
 {[%SevillaID "1439"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -175,7 +175,7 @@
 [Round "2"]
 [White "nhendo66"]
 [Black "Itzael_ML"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "nhendo66"]
 [BlackId "Itzael#2872"]
@@ -183,7 +183,7 @@
 [BlackElo "1225"]
 
 {[%SevillaID "1442"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
