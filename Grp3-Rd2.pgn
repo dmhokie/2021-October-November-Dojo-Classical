@@ -95,7 +95,7 @@
 [Round "2"]
 [White "JoyousBat"]
 [Black "KrasivyyeShakhmaty"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "Boiler#0919"]
 [BlackId "adam_phelan#2025"]
@@ -103,7 +103,7 @@
 [BlackElo "1539"]
 
 {[%SevillaID "1401"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -111,14 +111,14 @@
 [Round "2"]
 [White "Mando 19"]
 [Black "IAmJameel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Mando_19#8786"]
 [WhiteElo "1448"]
 [BlackElo "1627"]
 
 {[%SevillaID "1405"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -188,7 +188,7 @@
 [Round "2"]
 [White "System1773"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "gaben1773#4037"]
 [BlackId "ElliotP#2014"]
@@ -196,7 +196,7 @@
 [BlackElo "1666"]
 
 {[%SevillaID "1400"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]

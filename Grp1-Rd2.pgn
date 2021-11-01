@@ -274,14 +274,40 @@ Kh8 26. Bxe4 dxe4 27. Bd6 1-0
 [Round "2"]
 [White "ssoroka78"]
 [Black "alexa01123"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "ssoroka#5777"]
 [WhiteElo "1638"]
 [BlackElo "2342"]
 
 {[%SevillaID "1446"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.01"] [Round "-"] [White
+"ssoroka78"] [Black "alexa01123"] [Result "0-1"] [CurrentPosition
+"8/5k2/5p1p/3p3P/2pn4/r1P2R2/6P1/6K1 w - -"] [Timezone "UTC"] [ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/London-System-3...c5-4.e3"] [UTCDate
+"2021.11.01"] [UTCTime "00:01:42"] [WhiteElo "1631"] [BlackElo "2323"]
+[TimeControl "2700+30"] [Termination "alexa01123 won by resignation"] [StartTime
+"00:01:42"] [EndDate "2021.11.01"] [EndTime "01:27:37"] [Link
+"https://www.chess.com/game/live/29463629551"]  1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4.
+e3 Nc6 5. c3 Qb6 6. Qc2 cxd4 7. exd4 Bf5 8. Qb3 e6 9. Nbd2 h6 10. h3 Be7 11. Be2
+O-O 12. O-O Rfc8 13. Rfe1 Ne8 14. Nf1 Na5 15. Qxb6 axb6 16. Ne3 Bh7 17. Ne5 Bd6
+18. Bh2 f6 {INACCURACY (+1.26)} ({(+0.13) The best move was} 18... Rd8 19. h4 f6
+20. Nd3 g5 21. Bxd6 Nxd6 22. Ng4 Kg7 23. hxg5 hxg5 24. f4 Nac4 25. fxg5 fxg5 26.
+Nge5 Re8 27. b3 Nxe5 28. Nxe5 Re7 29. a4 Bc2 30. Bd1 Be4 31. Bg4 Kf6 32. c4 Rc7)
+19. Nd7 Bxh2+ $16 20. Kxh2 Rc6 {Critical move.} 21. Bb5 $2 $17 {MISTAKE (-1.63)}
+({(+1.05) The best move was} 21. b4 Rd6 22. bxa5 Rxa5 23. Bh5 Nc7 24. Nxf6+ gxf6
+25. Ng4 Kg7 26. Re3 Bg6 27. Bxg6 Kxg6 28. Rg3 Ra3 29. h4 h5 30. Ne5+ Kh7 31. Ng6
+Rc6 32. Nf8+ Kh8 33. Rg6 Raxc3 34. Re1 R3c4 35. Rxf6 Kg7 36. Rf4 b5 37. Nd7 Ne8
+38. Re5) 21... Rd6 22. f4 $2 {MISTAKE (-3.63)} ({(-1.43) The best move was} 22.
+b4 Nc7 23. Bf1 Rxd7 24. bxa5 bxa5 25. c4 dxc4 26. Nxc4 Re7 27. Nb6 Rd8 28. Nc4
+a4 29. Nb6 Rxd4 30. Rad1 Rxd1 31. Rxd1 Be4 32. Nxa4 Bc6 33. Nc5 Nd5 34. Kg1 b6
+35. Nb3 Kf7 36. Nd4 Be8 37. Nb5) 22... Nc7 23. Ba4 b5 24. Nxf6+ gxf6 25. Bc2 Nc4
+26. Nxc4 bxc4 27. f5 Rda6 28. a4 b5 29. Re2 bxa4 30. fxe6 Bxc2 31. Rxc2 Rxe6 32.
+Rf2 Kf7 33. h4 Re3 34. Raf1 Ra6 35. Rf3 Rxf3 36. Rxf3 a3 37. bxa3 Rxa3 38. h5
+Nb5 39. Kg1 Nxd4 (39... Nxd4 40. Rf1 Ne2+ 41. Kh2 Nxc3 42. Kh3 Ke6 43. Kg3 Ne4+
+44. Kg4 Ra2 45. Rb1 Ke5 46. Kh3 Rf2 47. Rb6 c3 48. Kh2 d4 49. Rb4 Rb2 50. Rc4
+Ra2 51. Rc8 Ra1 52. Rc7 Kf4 53. Rc4 Ke3 54. g4 Ra2+ 55. Kg1 Ng5) 0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
