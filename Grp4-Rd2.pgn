@@ -4,14 +4,14 @@
 [Round "2"]
 [White "alexa01123"]
 [Black "KaranGite"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [BlackId "Karan#4726"]
 [WhiteElo "2342"]
 [BlackElo "1837"]
 
 {[%SevillaID "1374"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -19,7 +19,7 @@
 [Round "2"]
 [White "barron411"]
 [Black "Vigg-Sama"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "barron?!?!#6962"]
 [BlackId "Vigg-Sama#5567"]
@@ -27,7 +27,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "1372"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -51,7 +51,7 @@
 [Round "2"]
 [White "Constantine73"]
 [Black "Chris-C"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "Constantine (#1211)"]
 [BlackId "Chris-C #3904"]
@@ -59,7 +59,7 @@
 [BlackElo "1861"]
 
 {[%SevillaID "1373"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -67,14 +67,14 @@
 [Round "2"]
 [White "garridobrown"]
 [Black "Gump_forest"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "diechess#8166"]
 [WhiteElo "1848"]
 [BlackElo "1991"]
 
 {[%SevillaID "1378"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -98,7 +98,7 @@
 [Round "2"]
 [White "lessixvii"]
 [Black "Sup16"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "sVnteen#5771"]
 [BlackId "Just a GM Aspirant#4642"]
@@ -106,7 +106,7 @@
 [BlackElo "2190"]
 
 {[%SevillaID "1375"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -114,13 +114,13 @@
 [Round "2"]
 [White "ricorat"]
 [Black "Kevin Smithv101"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteElo "1902"]
 [BlackElo "2064"]
 
 {[%SevillaID "1371"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -128,14 +128,14 @@
 [Round "2"]
 [White "riobicajet"]
 [Black "sweetiepawn"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "riobicajet #8166"]
 [WhiteElo "2000"]
 [BlackElo "1801"]
 
 {[%SevillaID "1377"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]

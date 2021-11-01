@@ -112,7 +112,7 @@
 [Round "2"]
 [White "hluebb"]
 [Black "joeverdy312"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "Namor#3094"]
 [BlackId "stk pr1xy#2525"]
@@ -120,7 +120,7 @@
 [BlackElo "744"]
 
 {[%SevillaID "1436"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -144,7 +144,7 @@
 [Round "2"]
 [White "Lemongamerchess"]
 [Black "thanushChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "N/A"]
 [BlackId "thanushChess #7745"]
@@ -152,7 +152,7 @@
 [BlackElo "675"]
 
 {[%SevillaID "1444"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -160,14 +160,14 @@
 [Round "2"]
 [White "LukaTheDon77"]
 [Black "BananaPyjamaz"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [BlackId "pumpkinthecat #3938"]
 [WhiteElo "1277"]
 [BlackElo "972"]
 
 {[%SevillaID "1434"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -191,14 +191,14 @@
 [Round "2"]
 [White "ProfessionalPatzer2"]
 [Black "egoncharik"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "ProfessionalPatzer#4398"]
 [WhiteElo "1379"]
 [BlackElo "1265"]
 
 {[%SevillaID "1428"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -238,7 +238,7 @@
 [Round "2"]
 [White "SageMuffin"]
 [Black "steve-north"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1400"]
 [WhiteId "SageMuffin#0150"]
 [BlackId "steve-north#4499"]
@@ -246,7 +246,7 @@
 [BlackElo "1321"]
 
 {[%SevillaID "1437"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
