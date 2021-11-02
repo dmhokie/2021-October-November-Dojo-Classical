@@ -2,17 +2,32 @@
 [Site ""]
 [Date "2021.10.25"]
 [Round "2"]
-[White "AfterEightTea"]
-[Black "Sinewave13"]
-[Result "0-1"]
+[White "jailer165"]
+[Black "alt0violistic"]
+[Result "1-0"]
 [Section "u1400"]
-[WhiteId "AfterEightTea#6039"]
-[BlackId "sinewave#1474"]
-[WhiteElo "1322"]
-[BlackElo "1120"]
+[WhiteId "jailer165#0369"]
+[BlackId "Kuba_B#5438"]
+[WhiteElo "961"]
+[BlackElo "1289"]
 
-{[%SevillaID "1432"]}
-0-1
+{[%SevillaID "1439"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "LukaTheDon77"]
+[Black "BananaPyjamaz"]
+[Result "1-0"]
+[Section "u1400"]
+[BlackId "pumpkinthecat #3938"]
+[WhiteElo "1277"]
+[BlackElo "972"]
+
+{[%SevillaID "1434"]}
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -20,7 +35,7 @@
 [Round "2"]
 [White "atbeaty"]
 [Black "bgcube007"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "atbeaty#4969"]
 [BlackId "bgcube007#2494"]
@@ -28,7 +43,22 @@
 [BlackElo "1200"]
 
 {[%SevillaID "1430"]}
-0-0
+0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "ProfessionalPatzer2"]
+[Black "egoncharik"]
+[Result "0-1"]
+[Section "u1400"]
+[WhiteId "ProfessionalPatzer#4398"]
+[WhiteElo "1379"]
+[BlackElo "1265"]
+
+{[%SevillaID "1428"]}
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -58,146 +88,6 @@
 [BlackElo "1013"]
 
 {[%SevillaID "1445"]}
-0-1
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "eejupeko"]
-[Black "hugh9288"]
-[Result "0-1"]
-[Section "u1400"]
-[WhiteId "eejupeko#4178"]
-[WhiteElo "907"]
-[BlackElo "1272"]
-
-{[%SevillaID "1435"]}
-0-1
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "formlosegallerte"]
-[Black "taisut"]
-[Result "1-0"]
-[Section "u1400"]
-[WhiteId "rstsvrkf#6143"]
-[BlackId "taisut#3492"]
-[WhiteElo "976"]
-[BlackElo "1312"]
-
-{[%SevillaID "1433"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "Grrms"]
-[Black "notmaat"]
-[Result "0-0"]
-[Section "u1400"]
-[WhiteId "Grrns#5984"]
-[WhiteElo "1319"]
-[BlackElo "973"]
-
-{[%SevillaID "1438"]}
-0-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "hluebb"]
-[Black "joeverdy312"]
-[Result "1-0"]
-[Section "u1400"]
-[WhiteId "Namor#3094"]
-[BlackId "stk pr1xy#2525"]
-[WhiteElo "1095"]
-[BlackElo "744"]
-
-{[%SevillaID "1436"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "jailer165"]
-[Black "alt0violistic"]
-[Result "1-0"]
-[Section "u1400"]
-[WhiteId "jailer165#0369"]
-[BlackId "Kuba_B#5438"]
-[WhiteElo "961"]
-[BlackElo "1289"]
-
-{[%SevillaID "1439"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "Lemongamerchess"]
-[Black "thanushChess"]
-[Result "1-0"]
-[Section "u1400"]
-[WhiteId "N/A"]
-[BlackId "thanushChess #7745"]
-[WhiteElo "1036"]
-[BlackElo "675"]
-
-{[%SevillaID "1444"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "LukaTheDon77"]
-[Black "BananaPyjamaz"]
-[Result "1-0"]
-[Section "u1400"]
-[BlackId "pumpkinthecat #3938"]
-[WhiteElo "1277"]
-[BlackElo "972"]
-
-{[%SevillaID "1434"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "nhendo66"]
-[Black "Itzael_ML"]
-[Result "1-0"]
-[Section "u1400"]
-[WhiteId "nhendo66"]
-[BlackId "Itzael#2872"]
-[WhiteElo "812"]
-[BlackElo "1225"]
-
-{[%SevillaID "1442"]}
-1-0
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.10.25"]
-[Round "2"]
-[White "ProfessionalPatzer2"]
-[Black "egoncharik"]
-[Result "0-1"]
-[Section "u1400"]
-[WhiteId "ProfessionalPatzer#4398"]
-[WhiteElo "1379"]
-[BlackElo "1265"]
-
-{[%SevillaID "1428"]}
 0-1
 
 [Event "October November Dojo Classical"]
@@ -236,17 +126,79 @@
 [Site ""]
 [Date "2021.10.25"]
 [Round "2"]
-[White "SageMuffin"]
-[Black "steve-north"]
-[Result "1/2-1/2"]
+[White "eejupeko"]
+[Black "hugh9288"]
+[Result "0-1"]
 [Section "u1400"]
-[WhiteId "SageMuffin#0150"]
-[BlackId "steve-north#4499"]
-[WhiteElo "999"]
-[BlackElo "1321"]
+[WhiteId "eejupeko#4178"]
+[WhiteElo "907"]
+[BlackElo "1272"]
 
-{[%SevillaID "1437"]}
-1/2-1/2
+{[%SevillaID "1435"]}
+0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "nhendo66"]
+[Black "Itzael_ML"]
+[Result "1-0"]
+[Section "u1400"]
+[WhiteId "nhendo66"]
+[BlackId "Itzael#2872"]
+[WhiteElo "812"]
+[BlackElo "1225"]
+
+{[%SevillaID "1442"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "hluebb"]
+[Black "joeverdy312"]
+[Result "1-0"]
+[Section "u1400"]
+[WhiteId "Namor#3094"]
+[BlackId "stk pr1xy#2525"]
+[WhiteElo "1095"]
+[BlackElo "744"]
+
+{[%SevillaID "1436"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "Zer0sum71"]
+[Black "monGrelTiger"]
+[Result "0-1"]
+[Section "u1400"]
+[WhiteId "Zer0sum71#3672"]
+[BlackId "monGrelTiger"]
+[WhiteElo "507"]
+[BlackElo "1062"]
+
+{[%SevillaID "1443"]}
+0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "Grrms"]
+[Black "notmaat"]
+[Result "0-0"]
+[Section "u1400"]
+[WhiteId "Grrns#5984"]
+[WhiteElo "1319"]
+[BlackElo "973"]
+
+{[%SevillaID "1438"]}
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -268,16 +220,64 @@
 [Site ""]
 [Date "2021.10.25"]
 [Round "2"]
-[White "Zer0sum71"]
-[Black "monGrelTiger"]
+[White "AfterEightTea"]
+[Black "Sinewave13"]
 [Result "0-1"]
 [Section "u1400"]
-[WhiteId "Zer0sum71#3672"]
-[BlackId "monGrelTiger"]
-[WhiteElo "507"]
-[BlackElo "1062"]
+[WhiteId "AfterEightTea#6039"]
+[BlackId "sinewave#1474"]
+[WhiteElo "1322"]
+[BlackElo "1120"]
 
-{[%SevillaID "1443"]}
+{[%SevillaID "1432"]}
 0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "SageMuffin"]
+[Black "steve-north"]
+[Result "1/2-1/2"]
+[Section "u1400"]
+[WhiteId "SageMuffin#0150"]
+[BlackId "steve-north#4499"]
+[WhiteElo "999"]
+[BlackElo "1321"]
+
+{[%SevillaID "1437"]}
+1/2-1/2
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "formlosegallerte"]
+[Black "taisut"]
+[Result "1-0"]
+[Section "u1400"]
+[WhiteId "rstsvrkf#6143"]
+[BlackId "taisut#3492"]
+[WhiteElo "976"]
+[BlackElo "1312"]
+
+{[%SevillaID "1433"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.10.25"]
+[Round "2"]
+[White "Lemongamerchess"]
+[Black "thanushChess"]
+[Result "1-0"]
+[Section "u1400"]
+[WhiteId "N/A"]
+[BlackId "thanushChess #7745"]
+[WhiteElo "1036"]
+[BlackElo "675"]
+
+{[%SevillaID "1444"]}
+1-0
 
 
