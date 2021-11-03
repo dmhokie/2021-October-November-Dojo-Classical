@@ -51,7 +51,7 @@
 [Round "3"]
 [White "barron411"]
 [Black "Renek13"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "barron?!?!#6962"]
 [BlackId "Renek#6846"]
@@ -59,7 +59,20 @@
 [BlackElo "1963"]
 
 {[%SevillaID "1470"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.01"] [Round "?"] [White
+"barron411"] [Black "Renek13"] [Result "1-0"] [ECO "B15"] [WhiteElo "1849"]
+[BlackElo "1995"] [TimeControl "2700+30"] [EndTime "21:32:11 PDT"] [Termination
+"barron411 won by resignation"]  1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5.
+Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Be3 Bf4 10. O-O-O Bxe3+ 11. fxe3
+Qe7 12. Bxh7+ Kh8 13. Nf3 Qxe3+ 14. Kb1 Qh6 15. Rde1 Be6 16. Bf5 Nd7 17. Bxe6
+fxe6 18. Qb3 Nb6 19. Re2 Qh5 20. Rhe1 Nd5 21. Re4 Kg8 22. Qc2 Nc7 23. Rh4 Qf5
+24. Rhe4 b5 25. Nh4 Qh5 26. Qf2 Rad8 27. g4 Qg5 28. Nf3 Qg6 29. Ka1 c5 30. g5
+cxd4 31. Rxd4 Nd5 32. gxf6 Qxf6 33. Qg3 Ne7 34. Rxd8 Rxd8 35. Rg1 Nf5 36. Qf4
+Qg6 37. a3 Qf6 38. Nd4 a6 39. Nc6 Rf8 40. Re1 Re8 41. Ne5 Nd6 42. Qg4 Qf5 43.
+Qd4 Nf7 44. Qd7 Rd8 45. Qc7 Rd5 46. Nxf7 Qxf7 47. Qc8+ Kh7 48. Qxa6 Qd7 49. Qxe6
+Qd8 50. Qe4+ Kh6 51. Qe6+ Kh7 52. Re3 Rh5 53. Rh3 Rxh3 54. Qxh3+ Kg6 55. Qg4+
+Kh7 56. Qf5+ Kh8 57. Qxb5 1-0 
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
