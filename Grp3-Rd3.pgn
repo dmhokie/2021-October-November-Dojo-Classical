@@ -34,14 +34,14 @@
 [Round "3"]
 [White "IAmJameel"]
 [Black "CGreidanus2"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [BlackId "ChrisGreidanus#1216"]
 [WhiteElo "1627"]
 [BlackElo "1552"]
 
 {[%SevillaID "1518"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -81,7 +81,7 @@
 [Round "3"]
 [White "JoyousBat"]
 [Black "NebeyuTedla"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Boiler#0919"]
 [BlackId "M1StY#8687"]
@@ -89,7 +89,7 @@
 [BlackElo "1501"]
 
 {[%SevillaID "1524"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -97,13 +97,13 @@
 [Round "3"]
 [White "kirk0536"]
 [Black "jay 1944"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteElo "1587"]
 [BlackElo "1505"]
 
 {[%SevillaID "1523"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -173,7 +173,7 @@
 [Round "3"]
 [White "steverstever"]
 [Black "System1773"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "DRANKLE#9999"]
 [BlackId "gaben1773#4037"]
@@ -181,7 +181,7 @@
 [BlackElo "1765"]
 
 {[%SevillaID "1519"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -189,14 +189,14 @@
 [Round "3"]
 [White "talalma"]
 [Black "Pauli3141"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [BlackId "Pauli#4131"]
 [WhiteElo "1487"]
 [BlackElo "1538"]
 
 {[%SevillaID "1527"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -204,12 +204,12 @@
 [Round "3"]
 [White "WhiteDrake"]
 [Black "pompili0"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteElo "1672"]
 [BlackElo "1465"]
 
 {[%SevillaID "1517"]}
-*
+1-0
 
 
