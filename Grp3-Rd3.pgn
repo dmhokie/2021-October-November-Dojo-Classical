@@ -4,14 +4,14 @@
 [Round "3"]
 [White "1Elliot"]
 [Black "Fromper"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "ElliotP#2014"]
 [WhiteElo "1666"]
 [BlackElo "1510"]
 
 {[%SevillaID "1521"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -49,7 +49,7 @@
 [Round "3"]
 [White "james2998"]
 [Black "litfinish"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "james2998(#7757)"]
 [BlackId "litfinish #5111"]
@@ -57,7 +57,7 @@
 [BlackElo "1734"]
 
 {[%SevillaID "1514"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -126,7 +126,7 @@
 [Round "3"]
 [White "MerlotKodiak"]
 [Black "strangeQuark6"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "MegaPops#2443"]
 [BlackId "strangeQuark6#1821"]
@@ -134,7 +134,7 @@
 [BlackElo "1631"]
 
 {[%SevillaID "1515"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -142,14 +142,14 @@
 [Round "3"]
 [White "philbobaggins42"]
 [Black "JoseVillegas17"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [BlackId "joseOMG#2567"]
 [WhiteElo "1498"]
 [BlackElo "1730"]
 
 {[%SevillaID "1520"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
