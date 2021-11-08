@@ -177,7 +177,7 @@
 [Round "3"]
 [White "monGrelTiger"]
 [Black "AfterEightTea"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "monGrelTiger"]
 [BlackId "AfterEightTea#6039"]
@@ -185,7 +185,7 @@
 [BlackElo "1322"]
 
 {[%SevillaID "1504"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -193,13 +193,13 @@
 [Round "3"]
 [White "notmaat"]
 [Black "Dmon658"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteElo "973"]
 [BlackElo "421"]
 
 {[%SevillaID "1513"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]

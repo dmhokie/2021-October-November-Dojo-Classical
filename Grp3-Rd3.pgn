@@ -19,14 +19,14 @@
 [Round "3"]
 [White "Gottalight82"]
 [Black "Mando 19"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [BlackId "Mando_19#8786"]
 [WhiteElo "1766"]
 [BlackElo "1448"]
 
 {[%SevillaID "1525"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -157,7 +157,7 @@
 [Round "3"]
 [White "ProvaDeAlgebra"]
 [Black "Briefwinters12"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "Main Skarner Suporte #7130"]
 [BlackId "Briefwinters#2645"]
@@ -165,7 +165,7 @@
 [BlackElo "1412"]
 
 {[%SevillaID "1526"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]

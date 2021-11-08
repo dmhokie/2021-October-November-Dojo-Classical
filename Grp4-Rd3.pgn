@@ -20,14 +20,14 @@
 [Round "3"]
 [White "Chessoptics76"]
 [Black "ricorat"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Chesslover"]
 [WhiteElo "1778"]
 [BlackElo "1902"]
 
 {[%SevillaID "1534"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -82,7 +82,7 @@
 [Round "3"]
 [White "lessixvii"]
 [Black "WimGMol"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "sVnteen#5771"]
 [BlackId "Wim #1650"]
@@ -90,7 +90,7 @@
 [BlackElo "1900"]
 
 {[%SevillaID "1535"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -129,7 +129,7 @@
 [Round "3"]
 [White "Vigg-Sama"]
 [Black "Constantine73"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "Vigg-Sama#5567"]
 [BlackId "Constantine (#1211)"]
@@ -137,6 +137,6 @@
 [BlackElo "1903"]
 
 {[%SevillaID "1530"]}
-*
+1-0
 
 
