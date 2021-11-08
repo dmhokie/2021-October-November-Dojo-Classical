@@ -4,7 +4,7 @@
 [Round "3"]
 [White "atbeaty"]
 [Black "hluebb"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1400"]
 [WhiteId "atbeaty#4969"]
 [BlackId "Namor#3094"]
@@ -12,7 +12,7 @@
 [BlackElo "1095"]
 
 {[%SevillaID "1501"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "BananaPyjamaz"]
 [Black "VikramLothe2"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1400"]
 [WhiteId "pumpkinthecat #3938"]
 [BlackId "VikramLothe2#1277"]
@@ -28,7 +28,7 @@
 [BlackElo "1207"]
 
 {[%SevillaID "1507"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -113,7 +113,7 @@
 [Round "3"]
 [White "Halgilde"]
 [Black "bgcube007"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Halgilde#5362"]
 [BlackId "bgcube007#2494"]
@@ -121,7 +121,7 @@
 [BlackElo "1200"]
 
 {[%SevillaID "1503"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -145,7 +145,7 @@
 [Round "3"]
 [White "Itzael_ML"]
 [Black "RyanBlunder70"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "Itzael#2872"]
 [BlackId "RyanBlunder70#7440"]
@@ -153,7 +153,7 @@
 [BlackElo "919"]
 
 {[%SevillaID "1510"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -254,7 +254,7 @@
 [Round "3"]
 [White "thanushChess"]
 [Black "Artic42"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "thanushChess #7745"]
 [BlackId "Artic42"]
@@ -262,6 +262,6 @@
 [BlackElo "1076"]
 
 {[%SevillaID "1511"]}
-*
+0-1
 
 

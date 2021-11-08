@@ -35,7 +35,7 @@
 [Round "3"]
 [White "Chris-C"]
 [Black "Sup16"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Chris-C #3904"]
 [BlackId "Just a GM Aspirant#4642"]
@@ -43,7 +43,7 @@
 [BlackElo "2190"]
 
 {[%SevillaID "1529"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -114,14 +114,14 @@
 [Round "3"]
 [White "sweetiepawn"]
 [Black "iridescentmollusc"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [BlackId "LouisBoBo#4702"]
 [WhiteElo "1801"]
 [BlackElo "1862"]
 
 {[%SevillaID "1536"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]
