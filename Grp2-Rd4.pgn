@@ -4,7 +4,7 @@
 [Round "4"]
 [White "Artic42"]
 [Black "BananaPyjamaz"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Artic42"]
 [BlackId "pumpkinthecat #3938"]
@@ -12,7 +12,7 @@
 [BlackElo "972"]
 
 {[%SevillaID "1557"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -99,7 +99,7 @@
 [Round "4"]
 [White "jailer165"]
 [Black "ElTurbo99"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "jailer165#0369"]
 [BlackId "ElTurbo#9410"]
@@ -107,7 +107,7 @@
 [BlackElo "1396"]
 
 {[%SevillaID "1553"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -192,7 +192,7 @@
 [Round "4"]
 [White "rafaelnajera"]
 [Black "AfterEightTea"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "RafaelNajera#7575"]
 [BlackId "AfterEightTea#6039"]
@@ -200,7 +200,7 @@
 [BlackElo "1322"]
 
 {[%SevillaID "1550"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
