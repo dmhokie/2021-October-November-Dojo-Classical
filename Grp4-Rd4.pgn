@@ -2,71 +2,9 @@
 [Site ""]
 [Date "2021.11.08"]
 [Round "4"]
-[White "Sup16"]
-[Black "Kevin Smithv101"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Just a GM Aspirant#4642"]
-[WhiteElo "2190"]
-[BlackElo "2064"]
-
-{[%SevillaID "1579"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.08"]
-[Round "4"]
-[White "n-j-b"]
-[Black "Vigg-Sama"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "noahjb#1247"]
-[BlackId "Vigg-Sama#5567"]
-[WhiteElo "1887"]
-[BlackElo "2000"]
-
-{[%SevillaID "1580"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.08"]
-[Round "4"]
-[White "KaranGite"]
-[Black "amitt09"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Karan#4726"]
-[BlackId "amitbhattrai#8849"]
-[WhiteElo "1837"]
-[BlackElo "1961"]
-
-{[%SevillaID "1581"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.08"]
-[Round "4"]
-[White "Constantine73"]
-[Black "ricorat"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Constantine (#1211)"]
-[WhiteElo "1903"]
-[BlackElo "1902"]
-
-{[%SevillaID "1582"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.08"]
-[Round "4"]
 [White "barron411"]
 [Black "Chris-C"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "barron?!?!#6962"]
 [BlackId "Chris-C #3904"]
@@ -74,22 +12,22 @@
 [BlackElo "1861"]
 
 {[%SevillaID "1583"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
 [Date "2021.11.08"]
 [Round "4"]
-[White "sweetiepawn"]
-[Black "garridobrown"]
-[Result "*"]
+[White "Constantine73"]
+[Black "ricorat"]
+[Result "0-1"]
 [Section "1775+"]
-[BlackId "diechess#8166"]
-[WhiteElo "1801"]
-[BlackElo "1848"]
+[WhiteId "Constantine (#1211)"]
+[WhiteElo "1903"]
+[BlackElo "1902"]
 
-{[%SevillaID "1584"]}
-*
+{[%SevillaID "1582"]}
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -110,6 +48,22 @@
 [Site ""]
 [Date "2021.11.08"]
 [Round "4"]
+[White "KaranGite"]
+[Black "amitt09"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "Karan#4726"]
+[BlackId "amitbhattrai#8849"]
+[WhiteElo "1837"]
+[BlackElo "1961"]
+
+{[%SevillaID "1581"]}
+0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.08"]
+[Round "4"]
 [White "lessixvii"]
 [Black "WimGMol"]
 [Result "*"]
@@ -121,5 +75,51 @@
 
 {[%SevillaID "1586"]}
 *
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.08"]
+[Round "4"]
+[White "n-j-b"]
+[Black "Vigg-Sama"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "noahjb#1247"]
+[BlackId "Vigg-Sama#5567"]
+[WhiteElo "1887"]
+[BlackElo "2000"]
+
+{[%SevillaID "1580"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.08"]
+[Round "4"]
+[White "Sup16"]
+[Black "Kevin Smithv101"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "Just a GM Aspirant#4642"]
+[WhiteElo "2190"]
+[BlackElo "2064"]
+
+{[%SevillaID "1579"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.08"]
+[Round "4"]
+[White "sweetiepawn"]
+[Black "garridobrown"]
+[Result "0-1"]
+[Section "1775+"]
+[BlackId "diechess#8166"]
+[WhiteElo "1801"]
+[BlackElo "1848"]
+
+{[%SevillaID "1584"]}
+0-1
 
 

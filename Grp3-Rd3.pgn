@@ -17,6 +17,22 @@
 [Site ""]
 [Date "2021.11.01"]
 [Round "3"]
+[White "bigreddc"]
+[Black "woot9697"]
+[Result "1-0"]
+[Section "1400-1774"]
+[WhiteId "jcd0#7679"]
+[BlackId "woot9697#9746"]
+[WhiteElo "1472"]
+[BlackElo "1612"]
+
+{[%SevillaID "1522"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.01"]
+[Round "3"]
 [White "Gottalight82"]
 [Black "Mando 19"]
 [Result "0-1"]
@@ -58,22 +74,6 @@
 
 {[%SevillaID "1514"]}
 0-1
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.01"]
-[Round "3"]
-[White "bigreddc"]
-[Black "woot9697"]
-[Result "1-0"]
-[Section "1400-1774"]
-[WhiteId "jcd0#7679"]
-[BlackId "woot9697#9746"]
-[WhiteElo "1472"]
-[BlackElo "1612"]
-
-{[%SevillaID "1522"]}
-1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -157,7 +157,7 @@
 [Round "3"]
 [White "ProvaDeAlgebra"]
 [Black "Briefwinters12"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Main Skarner Suporte #7130"]
 [BlackId "Briefwinters#2645"]
@@ -165,7 +165,7 @@
 [BlackElo "1412"]
 
 {[%SevillaID "1526"]}
-0-0
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
