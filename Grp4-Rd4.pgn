@@ -35,14 +35,14 @@
 [Round "4"]
 [White "Gump_forest"]
 [Black "MrKnight1001"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [BlackId "MrKnight1001#7267"]
 [WhiteElo "1991"]
 [BlackElo "1778"]
 
 {[%SevillaID "1585"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -66,7 +66,7 @@
 [Round "4"]
 [White "lessixvii"]
 [Black "WimGMol"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "sVnteen#5771"]
 [BlackId "Wim #1650"]
@@ -74,7 +74,7 @@
 [BlackElo "1900"]
 
 {[%SevillaID "1586"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -98,14 +98,14 @@
 [Round "4"]
 [White "Sup16"]
 [Black "Kevin Smithv101"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Just a GM Aspirant#4642"]
 [WhiteElo "2190"]
 [BlackElo "2064"]
 
 {[%SevillaID "1579"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
