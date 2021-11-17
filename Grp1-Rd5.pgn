@@ -2,6 +2,38 @@
 [Site ""]
 [Date "2021.11.15"]
 [Round "5"]
+[White "AbuElBanat3"]
+[Black "hluebb"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "TheOnionKnight#5191"]
+[BlackId "Namor#3094"]
+[WhiteElo "1541"]
+[BlackElo "1095"]
+
+{[%SevillaID "1593"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
+[White "AfterEightTea"]
+[Black "Pauli3141"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "AfterEightTea#6039"]
+[BlackId "Pauli#4131"]
+[WhiteElo "1322"]
+[BlackElo "1538"]
+
+{[%SevillaID "1595"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
 [White "barron411"]
 [Black "douglassu2"]
 [Result "*"]
@@ -12,70 +44,6 @@
 [BlackElo "2159"]
 
 {[%SevillaID "1587"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "ssoroka78"]
-[Black "sriracha"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "ssoroka#5777"]
-[BlackId "dfan#0341"]
-[WhiteElo "1638"]
-[BlackElo "1946"]
-
-{[%SevillaID "1588"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "sergey_carjacking"]
-[Black "yaR 33"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "sjwsparks#5276"]
-[BlackId "yaR_33#0033"]
-[WhiteElo "1621"]
-[BlackElo "1707"]
-
-{[%SevillaID "1589"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "mfabian55"]
-[Black "1Elliot"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "mfabian55#8675"]
-[BlackId "ElliotP#2014"]
-[WhiteElo "1975"]
-[BlackElo "1666"]
-
-{[%SevillaID "1590"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "elcherry"]
-[Black "falk312"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "elcherry #1069"]
-[BlackId "Falk#8401"]
-[WhiteElo "1443"]
-[BlackElo "1750"]
-
-{[%SevillaID "1591"]}
 *
 
 [Event "October November Dojo Classical"]
@@ -98,48 +66,16 @@
 [Site ""]
 [Date "2021.11.15"]
 [Round "5"]
-[White "AbuElBanat3"]
-[Black "hluebb"]
+[White "elcherry"]
+[Black "falk312"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "TheOnionKnight#5191"]
-[BlackId "Namor#3094"]
-[WhiteElo "1541"]
-[BlackElo "1095"]
+[WhiteId "elcherry #1069"]
+[BlackId "Falk#8401"]
+[WhiteElo "1443"]
+[BlackElo "1750"]
 
-{[%SevillaID "1593"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "Seth Lichtenstein"]
-[Black "PDC56"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Seth_Lichtenstein"]
-[BlackId "PDC56 #9024"]
-[WhiteElo "1513"]
-[BlackElo "828"]
-
-{[%SevillaID "1594"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.15"]
-[Round "5"]
-[White "AfterEightTea"]
-[Black "Pauli3141"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "AfterEightTea#6039"]
-[BlackId "Pauli#4131"]
-[WhiteElo "1322"]
-[BlackElo "1538"]
-
-{[%SevillaID "1595"]}
+{[%SevillaID "1591"]}
 *
 
 [Event "October November Dojo Classical"]
@@ -171,6 +107,70 @@
 [BlackElo "1402"]
 
 {[%SevillaID "1597"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
+[White "mfabian55"]
+[Black "1Elliot"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "mfabian55#8675"]
+[BlackId "ElliotP#2014"]
+[WhiteElo "1975"]
+[BlackElo "1666"]
+
+{[%SevillaID "1590"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
+[White "sergey_carjacking"]
+[Black "yaR 33"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "sjwsparks#5276"]
+[BlackId "yaR_33#0033"]
+[WhiteElo "1621"]
+[BlackElo "1707"]
+
+{[%SevillaID "1589"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
+[White "Seth Lichtenstein"]
+[Black "PDC56"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "Seth_Lichtenstein"]
+[BlackId "PDC56 #9024"]
+[WhiteElo "1513"]
+[BlackElo "828"]
+
+{[%SevillaID "1594"]}
+*
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.15"]
+[Round "5"]
+[White "ssoroka78"]
+[Black "sriracha"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "ssoroka#5777"]
+[BlackId "dfan#0341"]
+[WhiteElo "1638"]
+[BlackElo "1946"]
+
+{[%SevillaID "1588"]}
 *
 
 
