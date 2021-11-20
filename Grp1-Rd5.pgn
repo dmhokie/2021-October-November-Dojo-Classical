@@ -20,7 +20,7 @@
 [Round "5"]
 [White "AfterEightTea"]
 [Black "Pauli3141"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "Pauli#4131"]
@@ -28,7 +28,19 @@
 [BlackElo "1538"]
 
 {[%SevillaID "1595"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.19"] [Round "?"] [White
+"AfterEightTea"] [Black "Pauli3141"] [Result "1-0"] [ECO "B07"] [WhiteElo
+"1317"] [BlackElo "1546"] [TimeControl "5400+30"] [EndTime "9:51:40 PST"]
+[Termination "AfterEightTea won by checkmate"]  1. e4 d6 2. d4 e5 3. Nd2 exd4 4.
+Ngf3 c5 5. Bb5+ Bd7 6. Bc4 Be7 7. O-O Nf6 8. e5 dxe5 9. Nxe5 O-O 10. Nxd7 Qxd7
+11. Nf3 Nc6 12. Bg5 h6 13. Bh4 Ne4 14. Bxe7 Nxe7 15. Re1 Nf6 16. Ne5 Qc7 17. Qd3
+Rae8 18. Qb3 Ned5 19. f4 Nxf4 20. Nxf7 Rxf7 21. Rxe8+ Nxe8 22. Bxf7+ Qxf7 23.
+Qxf7+ Kxf7 24. Rf1 g5 25. g3 Ke6 26. gxf4 g4 27. Re1+ Kf7 28. Kg2 Nf6 29. Kg3 b6
+30. f5 h5 31. Kh4 c4 32. Re6 d3 33. cxd3 cxd3 34. Rd6 Ne4 35. Rxd3 Kf6 36. Kxh5
+Kxf5 37. Rd5+ Kf4 38. Rd4 Ke3 39. Rxe4+ Kxe4 40. Kxg4 Ke5 41. Kg5 a5 42. h4 a4
+43. h5 b5 44. h6 b4 45. h7 Kd4 46. h8=Q+ Kd3 47. Qc8 b3 48. Qc3+ Ke2 49. a3 Kf2
+50. Kf4 Kg2 51. Qf3+ Kh2 52. Qg4 Kh1 53. Kf3 Kh2 54. Qg2# 1-0 
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -68,7 +80,7 @@
 [Round "5"]
 [White "elcherry"]
 [Black "falk312"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "elcherry #1069"]
 [BlackId "Falk#8401"]
@@ -76,7 +88,36 @@
 [BlackElo "1750"]
 
 {[%SevillaID "1591"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.17"] [Round "-"] [White
+"elcherry"] [Black "falk312"] [Result "0-1"] [CurrentPosition
+"2r3k1/5p2/4p2p/Q2nq1p1/8/1P1N1P2/2PR1P1P/q5K1 w - -"] [Timezone "UTC"] [ECO
+"B86"] [ECOUrl
+"https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Sozin-Attack-6...a6"]
+[UTCDate "2021.11.17"] [UTCTime "16:38:25"] [WhiteElo "1462"] [BlackElo "1769"]
+[TimeControl "2700+30"] [Termination "falk312 won by resignation"] [StartTime
+"16:38:25"] [EndDate "2021.11.17"] [EndTime "18:12:54"] [Link
+"https://www.chess.com/game/live/30906027309"]  1. e4 c5 2. Nf3 d6 3. d4 cxd4 4.
+Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bd3 Be7 9. a3 O-O 10. Re1 Bb7 11. Bg5
+Nbd7 12. Qd2 Nc5 13. Rad1 Nxd3 14. Qxd3 h6 15. Bh4 Qb6 16. Nf3 Rfd8 17. Qe2 ±
+Rac8 18. Rd2 b4 19. Na4? {MISTAKE (-4.44)} ({(-2.06) The best move was} 19. axb4
+Qxb4 20. Rd3 a5 21. Nd5 Nxd5 22. Rb3 Qa4 23. Bxe7 Nxe7 24. Rxb7 Rxc2 25. Qe3 Qe8
+26. Nd4 Rc5 27. b4 axb4 28. Rxb4 Qd7 29. Reb1) 19... Qa5 20. b3 bxa3 21. Red1
+Qc7 22. e5 {INACCURACY (-6.25)} ({(-4.70) The best move was} 22. Nd4 Nxe4 23.
+Bxe7 Qxe7 24. Rd3 Qg5 25. Qe1 e5 26. Nf3 Qf4 27. c4 Bc6 28. Nd2 Nxd2 29. Qxd2
+Qxd2 30. R1xd2 Bxa4 31. bxa4 Rxc4) 22... Bxf3 23. gxf3 dxe5 24. Qxa6 Rxd2 25.
+Rxd2 Rd8 26. Re2 {INACCURACY (-9.86)} ({(-6.55) The best move was} 26. Rxd8+
+Qxd8 27. Nc3 Bb4 28. Kg2 Bxc3 29. Qxa3 g5 30. Bg3 Qd2 31. Qa6 Nd5 32. Qd3 Qxd3
+33. cxd3 Kg7 34. b4 Nxb4 35. h4 gxh4 36. Bxh4 Nxd3) 26... a2 27. Nb2 g5?
+{MISTAKE (-4.81)} ({(-8.86) The best move was} 27... e4 28. Qxa2 Qf4 29. Qa5
+Qxh4 30. fxe4 Qg4+ 31. Kf1 Qh3+ 32. Ke1 Qxh2 33. Qxd8+ Bxd8 34. b4 Qh1+ 35. Kd2
+Nxe4+ 36. Rxe4 Qxe4 37. Nd3 g5 38. Kc3 g4 39. Kb3 Kg7 40. Kc3) 28. Bg3 Nd5 29.
+Bxe5 Bd6 30. Bxd6 Qxd6 31. Qa5 Rc8 32. Rd2 {INACCURACY (-8.94)} ({(-7.01) The
+best move was} 32. Nd3 Nb4 33. Nxb4 Qd1+ 34. Kg2 Qxe2 35. Qxa2 g4 36. Qa1 Rd8
+37. Qc3 Rd1 38. fxg4 Qf1+ 39. Kf3 Qh3+ 40. Ke2 Qxc3 41. Kxd1 Qxb4 42. h3 Qc3 43.
+h4 Qf3+ 44. Ke1 Qxg4 45. Kd2 Qxh4) 32... Qe5 33. Nd3 a1=Q+ (33... a1=Q+ 34. Qxa1
+Qxa1+ 35. Kg2 Ra8 36. c4 Qc3 37. Rd1 Qxb3 38. Rc1 Nb6 39. Ne5 Qb2 40. Nd3 Qd2
+41. Rb1 Nxc4 42. Ne1 Kf8 43. Kf1) 0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -84,7 +125,7 @@
 [Round "5"]
 [White "Halgilde"]
 [Black "atbeaty"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Halgilde#5362"]
 [BlackId "atbeaty#4969"]
@@ -92,7 +133,18 @@
 [BlackElo "1365"]
 
 {[%SevillaID "1596"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.18"] [Round "?"] [White
+"Halgilde"] [Black "atbeaty"] [Result "0-1"] [ECO "D02"] [WhiteElo "1295"]
+[BlackElo "1375"] [TimeControl "2700+30"] [EndTime "12:07:37 PST"] [Termination
+"atbeaty won by resignation"]  1. d4 d5 2. Nf3 c5 3. c4 e6 4. Nc3 Nc6 5. dxc5
+Bxc5 6. e3 Nge7 7. cxd5 exd5 8. Bb5 O-O 9. Bxc6 bxc6 10. O-O Bg4 11. h3 Bh5 12.
+g4 Bg6 13. Ne5 Qd6 14. f4 f6 15. Nf3 Qxf4 16. Na4 Qg3+ 17. Kh1 Qxh3+ 18. Nh2
+Be4+ 19. Rf3 Bxf3+ 20. Qxf3 Qxf3+ 21. Nxf3 Bb6 22. Bd2 Ng6 23. Nxb6 axb6 24. a3
+Ne5 25. Nd4 c5 26. Ne6 Rf7 27. Rg1 Ra4 28. Nf4 Rc4 29. Nxd5 b5 30. Rg3 Rxg4 31.
+Rxg4 Nxg4 32. Kg2 Rd7 33. e4 f5 34. Kf3 h5 35. Bg5 fxe4+ 36. Kxe4 Nf2+ 37. Ke5
+Nd3+ 38. Ke6 Ra7 39. Ne7+ Kh7 40. Nc6 Ra6 41. Kd6 c4 42. Kd5 Nxb2 43. Be7 c3 44.
+Nb4 Rxa3 45. Nc2 Ra6 46. Bb4 Nd1 47. Kc5 h4 48. Kxb5 Rh6 49. Kc4 h3 0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -100,14 +152,24 @@
 [Round "5"]
 [White "kyle b81"]
 [Black "StoppedClock"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [BlackId "StoppedClock#1239"]
 [WhiteElo "1440"]
 [BlackElo "1402"]
 
 {[%SevillaID "1597"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.19"] [Round "?"] [White
+"kyle_b81"] [Black "StoppedClock"] [Result "0-1"] [ECO "C55"] [WhiteElo "1346"]
+[BlackElo "1444"] [TimeControl "2700+30"] [EndTime "12:52:31 PST"] [Termination
+"StoppedClock won by resignation"]  1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5.
+Nc3 d6 6. O-O Na5 7. Bb3 Nxb3 8. axb3 O-O 9. Bg5 c6 10. d4 Qc7 11. Re1 h6 12.
+Bh4 Nh7 13. Bxe7 Qxe7 14. d5 f5 15. Qd3 f4 16. Qc4 c5 17. Nb5 a6 18. b4 Bg4 19.
+Nc3 Bxf3 20. gxf3 Qg5+ 21. Kf1 b5 22. Qb3 c4 23. Qa2 Qh5 24. Ke2 Ng5 25. Nd1
+Qxf3+ 26. Kd2 Nxe4+ 27. Kc1 Nxf2 28. Qa5 Nxd1 29. Rxd1 Qe3+ 30. Rd2 f3 31. Ra3
+Qg5 32. h4 Qxh4 33. Rd1 Qg5+ 34. Kb1 f2 35. Qc7 f1=Q 36. Rxf1 Rxf1+ 37. Ka2 Qc1
+0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -115,7 +177,7 @@
 [Round "5"]
 [White "mfabian55"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "mfabian55#8675"]
 [BlackId "ElliotP#2014"]
@@ -123,7 +185,7 @@
 [BlackElo "1666"]
 
 {[%SevillaID "1590"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -131,7 +193,7 @@
 [Round "5"]
 [White "sergey_carjacking"]
 [Black "yaR 33"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "sjwsparks#5276"]
 [BlackId "yaR_33#0033"]
@@ -139,7 +201,17 @@
 [BlackElo "1707"]
 
 {[%SevillaID "1589"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.18"] [Round "?"] [White
+"sergey_carjacking"] [Black "yaR_33"] [Result "1-0"] [ECO "E60"] [WhiteElo
+"1788"] [BlackElo "1655"] [TimeControl "3600+60"] [EndTime "2:47:33 PST"]
+[Termination "sergey_carjacking won by checkmate"]  1. d4 Nf6 2. c4 g6 3. Nf3
+Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c5 7. Nc3 cxd4 8. Nxd4 Nbd7 9. b3 Nc5 10. Bb2 Rb8
+11. b4 Ne6 12. Nd5 Nxd5 13. cxd5 Nxd4 14. Bxd4 b6 15. a4 Bd7 16. Bxg7 Kxg7 17.
+Qd4+ Kg8 18. b5 Qc7 19. Rac1 Qb7 20. Qe3 Rfe8 21. Rc4 Rbc8 22. Rh4 h5 23. Qg5
+Kh7 24. g4 Rc4 25. e4 f6 26. Qf4 Qxd5 27. gxh5 g5 28. exd5 gxf4 29. Re1 Kh6 30.
+Bh3 f5 31. Bf1 Rxa4 32. Rh3 Rb4 33. Ra3 Bxb5 34. Re6+ Kxh5 35. Rh3+ Kg5 36. Rhh6
+Rg8 37. f3 Bxf1 38. h4# 1-0 
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -163,7 +235,7 @@
 [Round "5"]
 [White "ssoroka78"]
 [Black "sriracha"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "ssoroka#5777"]
 [BlackId "dfan#0341"]
@@ -171,6 +243,14 @@
 [BlackElo "1946"]
 
 {[%SevillaID "1588"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.16"] [Round "?"] [White
+"ssoroka78"] [Black "sriracha"] [Result "0-1"] [ECO "D30"] [WhiteElo "1639"]
+[BlackElo "1936"] [TimeControl "3600+30"] [EndTime "18:14:36 PST"] [Termination
+"sriracha won by resignation"]  1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qc2
+O-O 6. Bg5 h6 7. Bh4 c5 8. a3 Bxc3+ 9. Qxc3 cxd4 10. Nxd4 e5 11. Nf3 d4 12. Qd2
+Nc6 13. e3 dxe3 14. Qxe3 Bf5 15. Be2 Nd4 16. Nxd4 exd4 17. Qd2 Ne4 18. Bxd8 Nxd2
+19. Bh4 Nb3 20. O-O Nxa1 21. Rxa1 Bc2 22. f3 d3 23. Bd1 Rfe8 24. Kf1 Rac8 25. b3
+b5 26. cxb5 d2 27. Be2 Bxb3 0-1 
+0-1
 
 

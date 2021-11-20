@@ -50,7 +50,7 @@
 [Round "5"]
 [White "far_eastern"]
 [Black "joeverdy312"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "fareastern#3806"]
 [BlackId "stk pr1xy#2525"]
@@ -58,7 +58,7 @@
 [BlackElo "744"]
 
 {[%SevillaID "1612"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -66,14 +66,14 @@
 [Round "5"]
 [White "GMNIAB"]
 [Black "BananaPyjamaz"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [BlackId "pumpkinthecat #3938"]
 [WhiteElo "1013"]
 [BlackElo "972"]
 
 {[%SevillaID "1604"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -81,7 +81,7 @@
 [Round "5"]
 [White "Grrms"]
 [Black "VikramLothe2"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "Grrns#5984"]
 [BlackId "VikramLothe2#1277"]
@@ -89,7 +89,7 @@
 [BlackElo "1207"]
 
 {[%SevillaID "1608"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -207,14 +207,14 @@
 [Round "5"]
 [White "notmaat"]
 [Black "boondockstryker"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [BlackId "Boondockstryker"]
 [WhiteElo "973"]
 [BlackElo "1269"]
 
 {[%SevillaID "1609"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
