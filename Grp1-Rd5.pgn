@@ -4,7 +4,7 @@
 [Round "5"]
 [White "AbuElBanat3"]
 [Black "hluebb"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "TheOnionKnight#5191"]
 [BlackId "Namor#3094"]
@@ -12,7 +12,7 @@
 [BlackElo "1095"]
 
 {[%SevillaID "1593"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -48,7 +48,7 @@ Kxf5 37. Rd5+ Kf4 38. Rd4 Ke3 39. Rxe4+ Kxe4 40. Kxg4 Ke5 41. Kg5 a5 42. h4 a4
 [Round "5"]
 [White "barron411"]
 [Black "douglassu2"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "barron?!?!#6962"]
 [BlackId "douglasu#7327"]
@@ -56,7 +56,7 @@ Kxf5 37. Rd5+ Kf4 38. Rd4 Ke3 39. Rxe4+ Kxe4 40. Kxg4 Ke5 41. Kg5 a5 42. h4 a4
 [BlackElo "2159"]
 
 {[%SevillaID "1587"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -64,7 +64,7 @@ Kxf5 37. Rd5+ Kf4 38. Rd4 Ke3 39. Rxe4+ Kxe4 40. Kxg4 Ke5 41. Kg5 a5 42. h4 a4
 [Round "5"]
 [White "Capa a"]
 [Black "Renek13"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "ChessDad#0536"]
 [BlackId "Renek#6846"]
@@ -72,7 +72,15 @@ Kxf5 37. Rd5+ Kf4 38. Rd4 Ke3 39. Rxe4+ Kxe4 40. Kxg4 Ke5 41. Kg5 a5 42. h4 a4
 [BlackElo "1963"]
 
 {[%SevillaID "1592"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.20"] [Round "?"] [White
+"Capa_a"] [Black "Renek13"] [Result "0-1"] [ECO "B13"] [WhiteElo "1549"]
+[BlackElo "2035"] [TimeControl "2700+30"] [EndTime "11:10:16 PST"] [Termination
+"Renek13 won by resignation"]  1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3
+Nc6 6. Nf3 Bg4 7. Be2 e6 8. O-O Be7 9. Qb3 Bxf3 10. Bxf3 Nxd4 11. Qxb7 Nxf3+ 12.
+gxf3 O-O 13. cxd5 exd5 14. Bg5 h6 15. Bxf6 Bxf6 16. Nxd5 Bxb2 17. Ne7+ Kh8 18.
+Nc6 Qg5+ 19. Kh1 Bxa1 20. Rxa1 Qf6 21. Re1 Qxf3+ 22. Kg1 Rac8 23. Na5 Qc3 24.
+Re7 Qxa5 25. Qxa7 Qxa7 26. Rxa7 Ra8 0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -219,7 +227,7 @@ Rg8 37. f3 Bxf1 38. h4# 1-0
 [Round "5"]
 [White "Seth Lichtenstein"]
 [Black "PDC56"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Seth_Lichtenstein"]
 [BlackId "PDC56 #9024"]
@@ -227,7 +235,16 @@ Rg8 37. f3 Bxf1 38. h4# 1-0
 [BlackElo "828"]
 
 {[%SevillaID "1594"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.21"] [Round "?"] [White
+"Seth_Lichtenstein"] [Black "PDC56"] [Result "1-0"] [ECO "E10"] [WhiteElo
+"1554"] [BlackElo "898"] [TimeControl "5400+30"] [EndTime "13:05:41 PST"]
+[Termination "Seth_Lichtenstein won by resignation"]  1. d4 Nf6 2. c4 e6 3. Nf3
+Nc6 4. Bg5 Bb4+ 5. Nbd2 d6 6. e3 Qe7 7. Bd3 Bd7 8. O-O h6 9. Bh4 g5 10. Bg3 Nh5
+11. d5 Nxg3 12. dxc6 Bxc6 13. hxg3 O-O-O 14. a3 Bc5 15. b4 Bb6 16. b5 Bd7 17. a4
+c5 18. a5 Bc7 19. Qb3 Be8 20. b6 Bb8 21. bxa7 Bxa7 22. Rfb1 Rd7 23. Ne4 f5 24.
+Nc3 Rc7 25. Nb5 Bxb5 26. cxb5 Bb8 27. b6 Rc6 28. Bb5 c4 29. Qc3 e5 30. Bxc6 bxc6
+31. a6 Rd8 32. a7 1-0 
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]

@@ -4,14 +4,14 @@
 [Round "5"]
 [White "n-j-b"]
 [Black "sweetiepawn"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "noahjb#1247"]
 [WhiteElo "1887"]
 [BlackElo "1801"]
 
 {[%SevillaID "1628"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -67,14 +67,14 @@
 [Round "5"]
 [White "Gump_forest"]
 [Black "KaranGite"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [BlackId "Karan#4726"]
 [WhiteElo "1991"]
 [BlackElo "1837"]
 
 {[%SevillaID "1632"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -98,7 +98,7 @@
 [Round "5"]
 [White "Chris-C"]
 [Black "MrKnight1001"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "Chris-C #3904"]
 [BlackId "MrKnight1001#7267"]
@@ -106,6 +106,6 @@
 [BlackElo "1778"]
 
 {[%SevillaID "1634"]}
-*
+1-0
 
 
