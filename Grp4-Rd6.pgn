@@ -2,32 +2,62 @@
 [Site ""]
 [Date "2021.11.22"]
 [Round "6"]
-[White "Sup16"]
-[Black "n-j-b"]
+[White "barron411"]
+[Black "garridobrown"]
 [Result "*"]
 [Section "1775+"]
-[WhiteId "Just a GM Aspirant#4642"]
-[BlackId "noahjb#1247"]
-[WhiteElo "2190"]
-[BlackElo "1887"]
+[WhiteId "barron?!?!#6962"]
+[BlackId "diechess#8166"]
+[WhiteElo "1814"]
+[BlackElo "1848"]
 
-{[%SevillaID "1672"]}
+{[%SevillaID "1675"]}
 *
 
 [Event "October November Dojo Classical"]
 [Site ""]
 [Date "2021.11.22"]
 [Round "6"]
-[White "Vigg-Sama"]
-[Black "KaranGite"]
+[White "Chris-C"]
+[Black "iridescentmollusc"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "Chris-C #3904"]
+[BlackId "LouisBoBo#4702"]
+[WhiteElo "1861"]
+[BlackElo "1862"]
+
+{[%SevillaID "1676"]}
+0-1
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.22"]
+[Round "6"]
+[White "Constantine73"]
+[Black "MrKnight1001"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "Constantine (#1211)"]
+[BlackId "MrKnight1001#7267"]
+[WhiteElo "1903"]
+[BlackElo "1778"]
+
+{[%SevillaID "1677"]}
+1-0
+
+[Event "October November Dojo Classical"]
+[Site ""]
+[Date "2021.11.22"]
+[Round "6"]
+[White "Gump_forest"]
+[Black "sweetiepawn"]
 [Result "*"]
 [Section "1775+"]
-[WhiteId "Vigg-Sama#5567"]
-[BlackId "Karan#4726"]
-[WhiteElo "2000"]
-[BlackElo "1837"]
+[WhiteElo "1991"]
+[BlackElo "1801"]
 
-{[%SevillaID "1673"]}
+{[%SevillaID "1678"]}
 *
 
 [Event "October November Dojo Classical"]
@@ -50,62 +80,32 @@
 [Site ""]
 [Date "2021.11.22"]
 [Round "6"]
-[White "barron411"]
-[Black "garridobrown"]
-[Result "*"]
+[White "Sup16"]
+[Black "n-j-b"]
+[Result "1-0"]
 [Section "1775+"]
-[WhiteId "barron?!?!#6962"]
-[BlackId "diechess#8166"]
-[WhiteElo "1814"]
-[BlackElo "1848"]
+[WhiteId "Just a GM Aspirant#4642"]
+[BlackId "noahjb#1247"]
+[WhiteElo "2190"]
+[BlackElo "1887"]
 
-{[%SevillaID "1675"]}
-*
+{[%SevillaID "1672"]}
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
 [Date "2021.11.22"]
 [Round "6"]
-[White "Chris-C"]
-[Black "iridescentmollusc"]
-[Result "*"]
+[White "Vigg-Sama"]
+[Black "KaranGite"]
+[Result "1-0"]
 [Section "1775+"]
-[WhiteId "Chris-C #3904"]
-[BlackId "LouisBoBo#4702"]
-[WhiteElo "1861"]
-[BlackElo "1862"]
+[WhiteId "Vigg-Sama#5567"]
+[BlackId "Karan#4726"]
+[WhiteElo "2000"]
+[BlackElo "1837"]
 
-{[%SevillaID "1676"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.22"]
-[Round "6"]
-[White "Constantine73"]
-[Black "MrKnight1001"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Constantine (#1211)"]
-[BlackId "MrKnight1001#7267"]
-[WhiteElo "1903"]
-[BlackElo "1778"]
-
-{[%SevillaID "1677"]}
-*
-
-[Event "October November Dojo Classical"]
-[Site ""]
-[Date "2021.11.22"]
-[Round "6"]
-[White "Gump_forest"]
-[Black "sweetiepawn"]
-[Result "*"]
-[Section "1775+"]
-[WhiteElo "1991"]
-[BlackElo "1801"]
-
-{[%SevillaID "1678"]}
-*
+{[%SevillaID "1673"]}
+1-0
 
 

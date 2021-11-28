@@ -36,7 +36,7 @@
 [Round "6"]
 [White "boondockstryker"]
 [Black "BananaPyjamaz"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Boondockstryker"]
 [BlackId "pumpkinthecat #3938"]
@@ -44,7 +44,7 @@
 [BlackElo "972"]
 
 {[%SevillaID "1653"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -84,14 +84,14 @@
 [Round "6"]
 [White "formlosegallerte"]
 [Black "MagicKriss"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "rstsvrkf#6143"]
 [WhiteElo "976"]
 [BlackElo "1247"]
 
 {[%SevillaID "1651"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -99,14 +99,14 @@
 [Round "6"]
 [White "Grrms"]
 [Black "GMNIAB"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Grrns#5984"]
 [WhiteElo "1319"]
 [BlackElo "1013"]
 
 {[%SevillaID "1649"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -145,14 +145,14 @@
 [Round "6"]
 [White "LukaTheDon77"]
 [Black "eejupeko"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [BlackId "eejupeko#4178"]
 [WhiteElo "1277"]
 [BlackElo "907"]
 
 {[%SevillaID "1654"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -175,14 +175,14 @@
 [Round "6"]
 [White "rafaelnajera"]
 [Black "egoncharik"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "RafaelNajera#7575"]
 [WhiteElo "1125"]
 [BlackElo "1265"]
 
 {[%SevillaID "1647"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -206,7 +206,7 @@
 [Round "6"]
 [White "taisut"]
 [Black "SageMuffin"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "taisut#3492"]
 [BlackId "SageMuffin#0150"]
@@ -214,7 +214,7 @@
 [BlackElo "999"]
 
 {[%SevillaID "1656"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
