@@ -127,7 +127,7 @@
 [Round "6"]
 [White "System1773"]
 [Black "strangeQuark6"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "gaben1773#4037"]
 [BlackId "strangeQuark6#1821"]
@@ -135,7 +135,7 @@
 [BlackElo "1631"]
 
 {[%SevillaID "1660"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -174,12 +174,12 @@
 [Round "6"]
 [White "WhiteDrake"]
 [Black "ljfljf"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteElo "1672"]
 [BlackElo "1700"]
 
 {[%SevillaID "1661"]}
-*
+0-1
 
 

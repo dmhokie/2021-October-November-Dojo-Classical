@@ -20,7 +20,7 @@
 [Round "6"]
 [White "bgcube007"]
 [Black "hluebb"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "bgcube007#2494"]
 [BlackId "Namor#3094"]
@@ -28,7 +28,7 @@
 [BlackElo "1095"]
 
 {[%SevillaID "1645"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -160,14 +160,14 @@
 [Round "6"]
 [White "nhendo66"]
 [Black "notmaat"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "nhendo66"]
 [WhiteElo "812"]
 [BlackElo "973"]
 
 {[%SevillaID "1658"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
