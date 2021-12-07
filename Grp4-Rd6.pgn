@@ -52,13 +52,13 @@
 [Round "6"]
 [White "Gump_forest"]
 [Black "sweetiepawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteElo "1991"]
 [BlackElo "1801"]
 
 {[%SevillaID "1678"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -66,7 +66,7 @@
 [Round "6"]
 [White "riobicajet"]
 [Black "amitt09"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "riobicajet #8166"]
 [BlackId "amitbhattrai#8849"]
@@ -74,7 +74,7 @@
 [BlackElo "1961"]
 
 {[%SevillaID "1674"]}
-*
+1/2-1/2
 
 [Event "October November Dojo Classical"]
 [Site ""]

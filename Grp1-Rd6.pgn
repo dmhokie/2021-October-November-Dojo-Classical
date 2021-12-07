@@ -4,7 +4,7 @@
 [Round "6"]
 [White "1Elliot"]
 [Black "elcherry"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "ElliotP#2014"]
 [BlackId "elcherry #1069"]
@@ -12,7 +12,7 @@
 [BlackElo "1443"]
 
 {[%SevillaID "1640"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -20,7 +20,7 @@
 [Round "6"]
 [White "AbuElBanat3"]
 [Black "Seth Lichtenstein"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "TheOnionKnight#5191"]
 [BlackId "Seth_Lichtenstein"]
@@ -28,7 +28,7 @@
 [BlackElo "1513"]
 
 {[%SevillaID "1641"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -36,7 +36,7 @@
 [Round "6"]
 [White "douglassu2"]
 [Black "mfabian55"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "douglasu#7327"]
 [BlackId "mfabian55#8675"]
@@ -44,7 +44,7 @@
 [BlackElo "1975"]
 
 {[%SevillaID "1636"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -177,7 +177,7 @@ dxe5 O-O 25. e6 Bg7 26. Qe3 Qb4 27. Rd2 Rf5 28. a3 Qa5 29. Bd3 Re5 30. b4 Qxa3
 [Round "6"]
 [White "StoppedClock"]
 [Black "AfterEightTea"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "StoppedClock#1239"]
 [BlackId "AfterEightTea#6039"]
@@ -185,7 +185,20 @@ dxe5 O-O 25. e6 Bg7 26. Qe3 Qb4 27. Rd2 Rf5 28. a3 Qa5 29. Bd3 Re5 30. b4 Qxa3
 [BlackElo "1322"]
 
 {[%SevillaID "1642"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.11.28"] [Round "?"] [White
+"StoppedClock"] [Black "AfterEightTea"] [Result "0-1"] [ECO "C45"] [WhiteElo
+"1445"] [BlackElo "1339"] [TimeControl "5400+30"] [EndTime "11:34:42 PST"]
+[Termination "AfterEightTea won by resignation"]  1. e4 e5 2. Nf3 Nc6 3. d4 exd4
+4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 Qh4 7. Qe2 Nf6 8. Be3 Bb6 9. Nd2 O-O 10. Nf3 Qg4
+11. O-O-O Qe6 12. c4 Bxe3+ 13. Qxe3 d6 14. Nd4 Qe8 15. h3 a6 16. g4 c5 17. Nf5
+Bxf5 18. gxf5 Rb8 19. Rhg1 Qe5 20. Rd2 Nh5 21. Rg4 Nf6 22. Rh4 Rbe8 23. f4 Qe7
+24. Rg2 Kh8 25. e5 dxe5 26. fxe5 Qxe5 27. Qg5 Qe3+ 28. Qxe3 Rxe3 29. Kd2 Re5 30.
+Re2 Rxe2+ 31. Kxe2 g5 32. Rg4 Nxg4 33. hxg4 Kg7 34. a3 a5 35. Kd2 Kf6 36. Kc3
+Rb8 37. b3 Ke5 38. Be2 f6 39. Bd1 Ke4 40. Bc2+ Ke3 41. Bd1 Rd8 42. Bc2 Kf4 43.
+b4 axb4+ 44. axb4 cxb4+ 45. Kxb4 Kxg4 46. Kc5 h5 47. Kc6 Rd4 48. c5 Rc4 49. Bb3
+Rc3 50. Bd1+ Kh4 51. Be2 g4 52. Kd5 g3 53. Bf1 Kg4 54. Ke6 Rxc5 55. Kxf6 Rxf5+
+0-1 
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -193,7 +206,7 @@ dxe5 O-O 25. e6 Bg7 26. Qe3 Qb4 27. Rd2 Rf5 28. a3 Qa5 29. Bd3 Re5 30. b4 Qxa3
 [Round "6"]
 [White "yaR 33"]
 [Black "hluebb"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "yaR_33#0033"]
 [BlackId "Namor#3094"]
@@ -201,6 +214,15 @@ dxe5 O-O 25. e6 Bg7 26. Qe3 Qb4 27. Rd2 Rf5 28. a3 Qa5 29. Bd3 Re5 30. b4 Qxa3
 [BlackElo "1095"]
 
 {[%SevillaID "1639"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2021.12.04"] [Round "?"] [White
+"yaR_33"] [Black "HLuebb"] [Result "1/2-1/2"] [ECO "B51"] [WhiteElo "1674"]
+[BlackElo "1295"] [TimeControl "2700+30"] [EndTime "6:01:32 PST"] [Termination
+"Game drawn by agreement"]  1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 g6
+6. O-O Bg7 7. Re1 a6 8. Bf1 O-O 9. a5 b5 10. axb6 Bb7 11. Bc4 Nxb6 12. Bb3 c4
+13. Ba4 e6 14. e5 Nfd5 15. exd6 Qxd6 16. d4 cxd3 17. Qxd3 Rad8 18. Rd1 Qb4 19.
+Bd2 Nf4 20. Qf1 Bxf3 21. Nd5 Ne2+ 22. Qxe2 Rxd5 23. Qxf3 Rxd2 24. Rxd2 Qxd2 25.
+Rd1 Qb4 26. Bb3 Bxb2 27. g3 Qc3 28. Qb7 Qc5 29. Qxa6 Ra8 30. Qd3 Nd5 31. Qf3 Ra1
+32. Rxa1 Bxa1 33. c4 Ne7 34. Qa8+ Qc8 35. Qxa1 Nc6 1/2-1/2 
+1/2-1/2
 
 

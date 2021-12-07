@@ -4,7 +4,7 @@
 [Round "6"]
 [White "AfterEightTea"]
 [Black "jailer165"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "jailer165#0369"]
@@ -12,7 +12,7 @@
 [BlackElo "961"]
 
 {[%SevillaID "1652"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -52,7 +52,7 @@
 [Round "6"]
 [White "ermattungsstratege"]
 [Black "PlayingSomeChessToday"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "tammo#0059"]
 [BlackId "Wolvsong#5651"]
@@ -60,7 +60,7 @@
 [BlackElo "1372"]
 
 {[%SevillaID "1646"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -68,7 +68,7 @@
 [Round "6"]
 [White "far_eastern"]
 [Black "Artic42"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "fareastern#3806"]
 [BlackId "Artic42"]
@@ -76,7 +76,7 @@
 [BlackElo "1076"]
 
 {[%SevillaID "1655"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -114,14 +114,14 @@
 [Round "6"]
 [White "hugh9288"]
 [Black "Itzael_ML"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [BlackId "Itzael#2872"]
 [WhiteElo "1272"]
 [BlackElo "1225"]
 
 {[%SevillaID "1650"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -129,7 +129,7 @@
 [Round "6"]
 [White "Lemongamerchess"]
 [Black "RyanBlunder70"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "N/A"]
 [BlackId "RyanBlunder70#7440"]
@@ -137,7 +137,7 @@
 [BlackElo "919"]
 
 {[%SevillaID "1657"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -190,7 +190,7 @@
 [Round "6"]
 [White "Sinewave13"]
 [Black "atbeaty"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "sinewave#1474"]
 [BlackId "atbeaty#4969"]
@@ -198,7 +198,7 @@
 [BlackElo "1365"]
 
 {[%SevillaID "1648"]}
-*
+0-1
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -222,7 +222,7 @@
 [Round "6"]
 [White "VikramLothe2"]
 [Black "joeverdy312"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "VikramLothe2#1277"]
 [BlackId "stk pr1xy#2525"]
@@ -230,6 +230,6 @@
 [BlackElo "744"]
 
 {[%SevillaID "1659"]}
-*
+1-0
 
 

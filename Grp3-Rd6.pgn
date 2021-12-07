@@ -35,14 +35,14 @@
 [Round "6"]
 [White "jay 1944"]
 [Black "NebeyuTedla"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [BlackId "M1StY#8687"]
 [WhiteElo "1505"]
 [BlackElo "1501"]
 
 {[%SevillaID "1670"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -97,14 +97,14 @@
 [Round "6"]
 [White "philbobaggins42"]
 [Black "Briefwinters12"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [BlackId "Briefwinters#2645"]
 [WhiteElo "1498"]
 [BlackElo "1412"]
 
 {[%SevillaID "1667"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -112,14 +112,14 @@
 [Round "6"]
 [White "pompili0"]
 [Black "MerlotKodiak"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [BlackId "MegaPops#2443"]
 [WhiteElo "1465"]
 [BlackElo "1708"]
 
 {[%SevillaID "1668"]}
-*
+0-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
@@ -158,7 +158,7 @@
 [Round "6"]
 [White "thekangaroorat"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "mtgzach#5836"]
 [BlackId "ElliotP#2014"]
@@ -166,7 +166,7 @@
 [BlackElo "1666"]
 
 {[%SevillaID "1666"]}
-*
+1-0
 
 [Event "October November Dojo Classical"]
 [Site ""]
